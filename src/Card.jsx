@@ -12,7 +12,7 @@ export default function ImgMediaCard() {
         component="img"
         alt="Превью букета"
         height="100%"
-        image="./contemplative-reptile.jpg"
+        image="https://content3.flowwow-images.com/data/flowers/1000x1000/48/1660211019_4563448.jpg"
       />
       <CardContent>
         <Typography gutterBottom variant="h5" component="div">
