@@ -1,0 +1,18 @@
+[
+    {
+        "price" : 1990,
+        "name" : "Премиум",
+        "pending" : 25,
+        "sales" : 7,
+        "id": 1,
+        "img": "https://content3.flowwow-images.com/data/flowers/1000x1000/48/1660211019_4563448.jpg"
+    },
+    {
+        "price" : 1590,
+        "name" : "Тропико",
+        "pending" : 15,
+        "sales" : 7,
+        "id": 2,
+        "img": "https://content3.flowwow-images.com/data/flowers/1000x1000/48/1660211019_4563448.jpg"
+    }
+]
